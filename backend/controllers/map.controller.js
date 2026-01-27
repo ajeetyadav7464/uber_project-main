@@ -1,4 +1,4 @@
-kuyt
+
 const mapService = require('../services/maps.service');
 const { validationResult } = require('express-validator');
 
