@@ -1,4 +1,4 @@
-fghjklrty
+fghjkl
     const captainModel = require('../models/captain.model');
 
 
