@@ -1,5 +1,4 @@
-fgh
-    const captainModel = require('../models/captain.model');
+const captainModel = require('../models/captain.model');
 
 
 module.exports.createCaptain = async ({
